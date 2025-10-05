@@ -1,6 +1,6 @@
 # 🎬 Trakt to Letterboxd CSV Exporter
 
-Convert your exported **Trakt** data into CSV files that can be imported directly into **[Letterboxd](https://letterboxd.com/)**.
+Convert your exported **[Trakt](https://trakt.tv/)** data into CSV files that can be imported directly into **[Letterboxd](https://letterboxd.com/)**.
 
 ---
 
