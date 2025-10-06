@@ -138,7 +138,7 @@ def run_gui():
         data = load_movies(fpath)
         all_movies = merge_movies(all_movies, data)
 
-    write_csv_chunks(all_movies, base_dir, "exported-movies")
+    write_csv_chunks(all_movies, base_dir, "Ready-Letterboxd-movies")
 
     # ----------------
     # Section 2: Watchlist
@@ -156,7 +156,7 @@ def run_gui():
 
     # Force proper Letterboxd column order
     watchlist_headers = ["Title", "Year", "imdbID", "tmdbID", "Notes", "ListedDate"]
-    write_csv_chunks(all_watchlist, base_dir, "exported-watchlist", headers=watchlist_headers)
+    write_csv_chunks(all_watchlist, base_dir, "Ready-Letterboxd-watchlist", headers=watchlist_headers)
 
     # ----------------
     # Summary
