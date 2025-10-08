@@ -7,7 +7,7 @@ Convert your exported **[Trakt](https://trakt.tv/)** data into CSV files that ca
 ## ⚡ Features
 
 - ✅ Export **watched movies** from your Trakt JSON exports  
-- ⭐ Export **rated movies** (if available) from Trakt JSON exports
+- ⭐ Export **rated movies** from Trakt JSON exports
 - 📋 Export **watchlist movies** from Trakt JSON exports 
 - 🗂 Separate CSV files for **watched/rated** and **watchlist**  
 - 🔄 Deduplicates movies and merges ratings automatically  
